@@ -1,4 +1,6 @@
 # gowebsocket
+It is a fork from "github.com/fjukstad/gographer"
+
 Simple server (and client) handling communication over web sockets. Messages are broadcasted over websockets. 
 
 # How to use it
